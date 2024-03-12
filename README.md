@@ -7,4 +7,4 @@
 # This is the link to the website : ( https://samuelteklemariam.github.io/Samuel-Portfolio/ )
 
 # All the files are availabe for download
-# To run this website after downloading the files, double click on the index file and it will open on your default browser
+ To run this website after downloading the files, double click on the index file and it will open on your default browser
